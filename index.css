@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(#6358ff, #17fffff6, #8acbe7);
+    height: 100vh;
+
+}
+
+input{
+    cursor:pointer;
+    border-radius: 12%;
+}
+
+
+div{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    background-color: black;
+    width: 20%;
+    height: 30%;
+    color: #fff;
+    border-radius: 10%;
+}
+
